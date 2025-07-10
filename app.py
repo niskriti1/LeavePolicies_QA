@@ -3,7 +3,7 @@ import streamlit as st
 import time
 from datetime import datetime
 from dotenv import load_dotenv
-from retrirver import create_retriever,get_context
+from retriever import create_retriever,get_context
 from langchain_groq import ChatGroq
 from prompts import prompt_template
 
