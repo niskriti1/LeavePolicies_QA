@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Sick Leave",
+    "description": "Granted for health-related issues. Maximum 10 days per year. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Casual Leave",
+    "description": "Short-term leave for personal matters. Maximum 7 days per year. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Medical Leave",
+    "description": "Extended leave for serious health conditions with medical proof. Maximum 30 days per year, unpaid after 10 days. Applicable to teachers and staff.",
+    "type": "Unpaid after 10 days"
+  },
+  {
+    "title": "Maternity Leave",
+    "description": "Leave for childbirth and recovery. Maximum 90 days. Applicable to female teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Paternity Leave",
+    "description": "Leave for male staff after childbirth. Maximum 7 days. Applicable to male teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Bereavement Leave",
+    "description": "Leave due to the death of an immediate family member. Maximum 5 days. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Marriage Leave",
+    "description": "Leave granted for the employee’s own wedding. Maximum 10 days. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Study Leave",
+    "description": "Leave for higher studies, research, or exams. Maximum 90 days. Applicable to teachers and staff.",
+    "type": "Unpaid"
+  },
+  {
+    "title": "Compensatory Leave",
+    "description": "Time off in lieu of working on holidays or weekends. Maximum 2 days per month. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Half-Day Leave",
+    "description": "Short leave for part of the working day. Maximum 4 hours per day. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Unpaid Leave",
+    "description": "Leave without pay for personal reasons. Maximum 30 days per year. Applicable to teachers and staff.",
+    "type": "Unpaid"
+  },
+  {
+    "title": "Child Care Leave",
+    "description": "Leave for taking care of young children. Maximum 60 days per year. Applicable to female teachers and staff.",
+    "type": "Paid (50%)"
+  },
+  {
+    "title": "Exam Leave (Students)",
+    "description": "Leave granted to students during examinations. Maximum 15 days per term. Applicable to students.",
+    "type": "Academic"
+  },
+  {
+    "title": "Festival Leave",
+    "description": "Leave granted during major religious or cultural festivals. Maximum 5 days per year. Applicable to teachers, staff, and students.",
+    "type": "Paid"
+  },
+  {
+    "title": "Quarantine Leave",
+    "description": "Granted in case of contagious illness or government advisory. Maximum 14 days. Applicable to teachers, staff, and students.",
+    "type": "Paid"
+  },
+  {
+    "title": "Duty Leave",
+    "description": "Leave for attending official school duties or events. Maximum 10 days per year. Applicable to teachers and staff.",
+    "type": "Paid"
+  },
+  {
+    "title": "Sabbatical Leave",
+    "description": "Extended leave for professional development or research. Maximum 6 months. Applicable to teachers.",
+    "type": "Unpaid"
+  },
+  {
+    "title": "Parent-Teacher Meeting Leave",
+    "description": "Leave granted for parents to attend scheduled PTMs. Maximum 1 day per term. Applicable to students.",
+    "type": "Academic"
+  },
+  {
+    "title": "Relocation Leave",
+    "description": "Leave for relocation purposes. Maximum 3 days. Applicable to teachers and staff.",
+    "type": "Unpaid"
+  },
+  {
+    "title": "Mental Health Leave",
+    "description": "Leave for emotional or psychological wellbeing. Maximum 5 days per year. Applicable to teachers and staff.",
+    "type": "Paid"
+  }
+]
